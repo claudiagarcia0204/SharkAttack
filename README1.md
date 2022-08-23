@@ -2,7 +2,7 @@
 Status do projeto: ativo, em andamento
 
 # Objetivo do projeto
-O projeto teve como objetivo apresentar técnicas de manipulação de leitura de um CSV, utilizando diferentes métodos de limpeza de dados no DataFrame. 
+O projeto teve como objetivo apresentar técnicas de manipulação para ler um CSV, utilizando diferentes métodos de limpeza de dados no DataFrame. 
 
 # Métodos
 Lista com métodos:
@@ -79,5 +79,4 @@ A análise também apresentou informações que podem (a principio) demonstrar q
 
 Contato
 linkedin: linkedin.com/in/claudia-garcia-765b5037
-
 github: @claudiagarcia0204
