@@ -1,6 +1,5 @@
 # Projeto SharkAttack
-<<<<<<< HEAD
-
+<br/>
 Status do Projeto: ConcEm desenvolvimento:warning:
 <br/>
 <br/>
@@ -93,7 +92,4 @@ Contato
 <<<<<<< HEAD
 linkedin : www.linkedin.com/in/claudia-garcia0204
 github: @claudiagarcia0204
-=======
-linkedin: www.linkedin.com/in/claudia-garcia0204
-github: @claudiagarcia0204
->>>>>>> 19f035432695cb57868ebc092c241cf2836a7109
+
