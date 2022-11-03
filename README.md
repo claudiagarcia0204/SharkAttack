@@ -5,7 +5,7 @@ Status do Projeto: Em desenvolvimento:warning:
 <br/>
 
 ___
-![GitHub top language](https://img.shields.io/github/languages/top/claudiagarcia0204/SharkAttack
+![GitHub top language](https://img.shields.io/github/languages/top/claudiagarcia0204/SharkAttack)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/claudiagarcia0204/SharkAttack)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/claudiagarcia0204/SharkAttack)
 ![GitHub last commit](https://img.shields.io/github/last-commit/claudiagarcia0204/SharkAttack)
@@ -86,7 +86,6 @@ A análise também apresentou informações que podem (a principio) demonstrar q
 
 ___
 Contato
-<<<<<<< HEAD
-linkedin : www.linkedin.com/in/claudia-garcia0204
+linkedin: www.linkedin.com/in/claudia-garcia0204
 github: @claudiagarcia0204
 
