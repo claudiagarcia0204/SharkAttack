@@ -42,7 +42,7 @@ Lista com tecnologias utilizadas:
 
 ___
 # Descrição do Projeto
-O projeto utilizou como base a tabela de incidentes de ataque de tubarão compilada pelo Arquivo Global de Ataque de Tubarão. Os dados foram baixados através do site do Global Shark Attack. 
+O projeto utilizou como base a tabela de incidentes de ataque de tubarão compilada pelo Arquivo Global de Ataque de Tubarão. Os dados foram baixados através do site do Global Shark Attack https://www.kaggle.com/teajay/global-shark-attacks/version/1
 Os métodos utilizados, descritos acima, quis responder a questão sobre: Quais tipos de atividades levam homens e mulheres a sofrerem maiores números de ataques de tubarão.
 
 ___
@@ -84,8 +84,7 @@ ___
 ## Conclusão final
 Em uma análise inicial, foi possível verificar que os homens, na totalidade dos acidentes , são mais propensos a acidentes com ataques de tubarões.
 
-A análise também apresentou informações que podem (a principio) demonstrar que atividades como Pesca; Mergulho; Surf detém uma diferença significativa com relação a porcentagem (94%, 89%, 87% maior que os incidentes com mulheres na mesma atividade), mostrando a predominância masculina nesta atividade.
-
+A análise também apresentou informações que podem (a principio) demonstrar que atividades como Pesca; Mergulho; Surf detém uma diferença significativa com relação a porcentagem (94%, 89%, 87% maior que os incidentes com mulheres na mesma atividade).
 ___
 Contato
 linkedin: www.linkedin.com/in/claudia-garcia0204
