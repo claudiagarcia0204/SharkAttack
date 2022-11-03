@@ -1,38 +1,49 @@
 # Projeto SharkAttack
-Status do projeto: ativo, em andamento
+
+Status do Projeto: ConcEm desenvolvimento:warning:
+<br/>
+<br/>
+
+___
+![GitHub top language](https://img.shields.io/github/languages/top/claudiagarcia0204/SharkAttack
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/claudiagarcia0204/SharkAttack)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/claudiagarcia0204/SharkAttack)
+![GitHub last commit](https://img.shields.io/github/last-commit/claudiagarcia0204/SharkAttack)
 
 # Objetivo do projeto
 O projeto teve como objetivo apresentar técnicas de manipulação para ler um CSV, utilizando diferentes métodos de limpeza de dados no DataFrame. 
 
+___
 # Métodos
 Lista com métodos:
 
-Manipulação de dados
-Limpeza de dados
-Cálculos no DataFrame
-Filtrar
-Agrupamento
+* Manipulação de dados
+* Limpeza de dados
+* Cálculos no DataFrame
+* Filtrar
+* Agrupamento
 
+___
 # Tecnologias
 Lista com tecnologias utilizadas:
 
-Python
-Pandas
-Regex
-Pd.loc
-Pd.pivot_table
-Pd.str.findall
-Pd.str.contains
-Pd.dropna
-Pd.expressões regulares
-Pd.numpy
+* Python
+* Pandas
+* Regex
+* Pd.loc
+* Pd.pivot_table
+* Pd.str.findall
+* Pd.str.contains
+* Pd.dropna
+* Pd.expressões regulares
+* Pd.numpy
 
-
+___
 # Descrição do Projeto
 O projeto utilizou como base a tabela de incidentes de ataque de tubarão compilada pelo Arquivo Global de Ataque de Tubarão. Os dados foram baixados através do site do Global Shark Attack. 
 Os métodos utilizados, descritos acima, quis responder a questão sobre: Quais tipos de atividades levam homens e mulheres a sofrerem maiores números de ataques de tubarão.
 
-
+___
 ## Passos
 Com base no DataFrame inicial os dados totais foram de  25723 linhas / 24 colunas sendo que:
 * 488.276 dos dados (entre linhas e colunas) estavam apresentados como nulos
@@ -45,8 +56,7 @@ Com base no DataFrame inicial os dados totais foram de  25723 linhas / 24 coluna
 
 * O total de Atividades envolvidas nos acidentes foi de 5733 distribuida em diversas subcategorias. Após a análise, para limitador de categorais, foram renomeados e listados apenas 9 categorias principais.
 
-
-
+___
 ## Conclusão
 Considerando os dados levantados pela coluna "Sexo" e "Atividades", foi possivel verificar em relação aos casos de acidentes:
 
@@ -68,15 +78,13 @@ Considerando os dados levantados pela coluna "Sexo" e "Atividades", foi possivel
 
 * Other - 15,19 % dos acidentes aconteceram com pessoas que estavam 'Fazendo outras atividades', sendo: 84,79 % envolvem homens e 15,19 % envolve mulheres 
 
+___
 ## Conclusão final
-
 Em uma análise inicial, foi possível verificar que os homens, na totalidade dos acidentes , são mais propensos a acidentes com ataques de tubarões.
 
 A análise também apresentou informações que podem (a principio) demonstrar que atividades como Pesca; Mergulho; Surf detém uma diferença significativa com relação a porcentagem (94%, 89%, 87% maior que os incidentes com mulheres na mesma atividade), mostrando a predominância masculina nesta atividade.
 
-
-
-
+___
 Contato
-linkedin: linkedin.com/in/claudia-garcia-765b5037
+linkedin : www.linkedin.com/in/claudia-garcia0204
 github: @claudiagarcia0204
