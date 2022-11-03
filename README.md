@@ -86,7 +86,8 @@ Em uma análise inicial, foi possível verificar que os homens, na totalidade do
 
 A análise também apresentou informações que podem (a principio) demonstrar que atividades como Pesca; Mergulho; Surf detém uma diferença significativa com relação a porcentagem (94%, 89%, 87% maior que os incidentes com mulheres na mesma atividade).
 ___
+
 Contato
-linkedin: www.linkedin.com/in/claudia-garcia0204
-github: @claudiagarcia0204
+* linkedin: www.linkedin.com/in/ claudia-garcia0204
+* github: https://github.com/claudiagarcia0204
 
