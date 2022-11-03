@@ -1,17 +1,17 @@
 # Projeto SharkAttack
 <br/>
-Status do Projeto: ConcEm desenvolvimento:warning:
+Status do Projeto: Em desenvolvimento:warning:
 <br/>
 <br/>
 
 ___
-![GitHub top language](https://img.shields.io/github/languages/top/claudiagarcia0204/SharkAttack
+![GitHub top language](https://img.shields.io/github/languages/top/claudiagarcia0204/SharkAttack)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/claudiagarcia0204/SharkAttack)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/claudiagarcia0204/SharkAttack)
 ![GitHub last commit](https://img.shields.io/github/last-commit/claudiagarcia0204/SharkAttack)
 =======
 Status do projeto: ativo
->>>>>>> 19f035432695cb57868ebc092c241cf2836a7109
+
 
 # Objetivo do projeto
 O projeto teve como objetivo apresentar técnicas de manipulação para ler um CSV, utilizando diferentes métodos de limpeza de dados no DataFrame. 
