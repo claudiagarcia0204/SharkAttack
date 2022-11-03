@@ -1,9 +1,15 @@
 # Projeto SharkAttack
+
+<h1 align="center"><img src="https://bit.ly/2VnXWr2" width="60">
+
+<h1 align="center">Shark attack: a pandas project</h1>
+
+<p align="center"> Second Python Project in Ironhack Bootcamp :star: :star:
+</h1>
+
+![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 <br/>
 Status do Projeto: Em desenvolvimento:warning:
-<br/>
-<br/>
-
 ___
 ![GitHub top language](https://img.shields.io/github/languages/top/claudiagarcia0204/SharkAttack)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/claudiagarcia0204/SharkAttack)
@@ -46,7 +52,7 @@ Os métodos utilizados, descritos acima, quis responder a questão sobre: Quais 
 ___
 ## Passos
 Com base no DataFrame inicial os dados totais foram de  25723 linhas / 24 colunas sendo que:
-* 488.276 dos dados (entre linhas e colunas) estavam apresentados como nulos
+* 488.276 dos dados (entre linhas e colunas) estavam apresentados como nulos, que compreendem quase 65% do total de linhas. Essas linhas podem ser eliminadas com o método pandas.DataFrame.dropna para reduzir o tamanho geral do conjunto de dados.
 
 * Foram removidos aproximadamente 1/4 dos arquivos duplicados - Utilizando o .duplicated (numerador / denominador)
 
